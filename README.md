@@ -1,1 +1,1 @@
-# Buy-a-computer-or-not
+# Buy-a-computer-or-not.py
