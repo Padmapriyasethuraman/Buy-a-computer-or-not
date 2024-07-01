@@ -1,0 +1,15 @@
+Sno,Age,Income,Student,credit_rating,buys_computer
+1,youth,35000,0,1,0
+2,youth,32000,0,2,0
+3,middle_aged,33000,0,1,1
+4,senior,25000,0,1,1
+5,senior,10000,1,1,1
+6,senior,9000,1,2,0
+7,middle_aged,9500,1,2,1
+8,youth,22000,0,1,0
+9,youth,9400,1,1,1
+10,senior,23000,1,1,1
+11,youth,24000,1,2,1
+12,middle_aged,25000,0,2,1
+13,middle_aged,36000,1,1,1
+14,senior,22000,0,2,0
